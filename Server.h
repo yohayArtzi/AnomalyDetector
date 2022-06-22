@@ -1,10 +1,3 @@
-/*
- * Server.h
- *
- *  Created on: Dec 13, 2020
- *      Author: Eli
- */
-
 #ifndef SERVER_H_
 #define SERVER_H_
 
